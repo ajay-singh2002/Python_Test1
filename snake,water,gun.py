@@ -19,3 +19,5 @@ elif user == 'gun' and computer == 'water':
     print("You lose! Water damages gun")
 else:
     print("Invalid input")
+
+print("done")
